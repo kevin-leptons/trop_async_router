@@ -1,10 +1,10 @@
-# Router
+# class Router
 
 ```js
 const Router = require('@trop/async_router')
 ```
 
-## Router(options)
+## constructor(options)
 
 It is the same with [express.Router](https://expressjs.com/en/4x/api.html#express.router)
 
@@ -17,4 +17,4 @@ It is the same with [express.Router](https://expressjs.com/en/4x/api.html#expres
 
 ## get express()
 
-Return express router.
+Return `express.Router` router.

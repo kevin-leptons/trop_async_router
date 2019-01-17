@@ -12,7 +12,7 @@ Asynchronous Router for Express - Make async/await handlers simple.
 const Router = require('@trop/async_router')
 const express = require('express')
 
-let router = Router()
+let router = new Router()
 
 router.
 get('/', async(req, res) => {

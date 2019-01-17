@@ -21,7 +21,7 @@ describe('class Router', () => {
     })
 
     it('constructor()', () => {
-        router = Router()
+        router = new Router()
     })
 
     it('get()', () => {
