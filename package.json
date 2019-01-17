@@ -1,6 +1,6 @@
 {
   "name": "@trop/async_router",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Asynchronous router for Express",
   "main": "lib/index.js",
   "scripts": {
