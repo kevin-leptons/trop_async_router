@@ -1,0 +1,31 @@
+{
+  "name": "@trop/async_router",
+  "version": "0.1.0",
+  "description": "Asynchronous router for Express",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-leptons/trop_async_router.git"
+  },
+  "keywords": [
+    "async",
+    "router",
+    "express"
+  ],
+  "author": "Kevin Leptons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-leptons/trop_async_router/issues"
+  },
+  "homepage": "https://github.com/kevin-leptons/trop_async_router#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "supertest": "^3.4.1"
+  }
+}
